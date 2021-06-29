@@ -5,7 +5,7 @@ This noob project is for my Lobby server
 
 Because i want to copy all needed files to each lobby folder 
 
-So that why you saw i coded "Plugins" and "Files"
+So that why you saw i have "Plugins" and "Files"
 
 If you want to use it.. Use it at your own risk lol
 

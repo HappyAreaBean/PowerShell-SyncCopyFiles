@@ -1,7 +1,7 @@
 # PowerShell-SyncCopyFiles
 It’s really hard to say that you can use this in a big environment LOL
 
-This project is mainly for my Lobby server
+This noob project is for my Lobby server
 
 Because i want to copy all needed files to each lobby folder 
 
